@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="40px" width="40px">, It's me SHIVANGI SEMWAL</h1>
 
 <!--
 **ShivangiSemwal/ShivangiSemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
